@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.uu</groupId>
-    <artifactId>crawler</artifactId>
+    <artifactId>xcrawler</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
 
